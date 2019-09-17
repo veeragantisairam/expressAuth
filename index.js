@@ -32,5 +32,3 @@ app.get('/', (req, res) => {
 app.listen(portnum, () => {
     console.log(`server listening port number at : ${portnum}`);
 })
-
-// https://www.youtube.com/watch?v=0D5EEKH97NA
